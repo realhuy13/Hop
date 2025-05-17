@@ -6,11 +6,11 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          Animation = "Premium"
          },
         Key = {
-        KeySystem = true,
+        KeySystem = false,
         Title = "Key System",
         Description = "",
-        KeyLink = "https://web.telegram.org/a/#-1002642640976",
-        Keys = {"huydepzai"},
+        KeyLink = "",
+        Keys = {"1234"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đã Vô",
